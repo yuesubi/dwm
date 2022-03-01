@@ -1,4 +1,4 @@
-# dwm
+# Dwm config
 This is my dwm config
 
 ## Patches
@@ -11,4 +11,12 @@ This is my dwm config
 * rotatestack
 * systray
 * uselessgap
+
+## Install
+This program can only be installed on **linux**
+```git
+git clone https://github.com/yuesubi/dwm.git
+cd dwm
+sudo make clean install
+```
 

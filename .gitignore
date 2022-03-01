@@ -15,6 +15,9 @@
 # Git diffs
 *.diff
 
+# The generated config file
+config.h
+
 # Precompiled Headers
 *.gch
 *.pch
