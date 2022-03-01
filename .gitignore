@@ -12,6 +12,9 @@
 *.map
 *.exp
 
+# Git diffs
+*.diff
+
 # Precompiled Headers
 *.gch
 *.pch
